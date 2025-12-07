@@ -33,9 +33,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldO-dev&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
   </a>
   -->
+  <!--
     <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldO-dev&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
   </a>
+   -->
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -43,7 +45,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
  <!--  <br>
   <br>
@@ -55,5 +57,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <br>
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-![Metrics](https://metrics.lecoq.io/GoldO-dev?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/GoldO-Dev?template=classic&base.header=0&sponsorships=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&config.timezone=Europe%2FCopenhagen)
+<!--![Metrics](https://metrics.lecoq.io/GoldO-dev?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FCopenhagen)
