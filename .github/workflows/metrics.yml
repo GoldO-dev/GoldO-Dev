@@ -44,7 +44,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_sponsors: yes
           plugin_sponsors_past: yes
-          plugin_sponsorships: yes
+          plugin_sponsorships: no
           plugin_sponsorships_sections: amount
           plugin_licenses: yes
           plugin_licenses_ratio: yes
