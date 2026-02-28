@@ -58,5 +58,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <!--![Metrics](https://metrics.lecoq.io/GoldO-Dev?template=classic&base.header=0&sponsorships=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&config.timezone=Europe%2FCopenhagen) -->
-![Metrics](https://metrics.lecoq.io/GoldO-Dev?template=classic&base.header=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FCopenhagen)
+<!--![Metrics](https://metrics.lecoq.io/GoldO-Dev?template=classic&base.header=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FCopenhagen)-->
+![Metrics](/github-metrics.svg)
 <!--![Metrics](https://metrics.lecoq.io/GoldO-dev?template=classic&base.header=0&config.timezone=Europe%2FCopenhagen)-->
